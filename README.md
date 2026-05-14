@@ -8,6 +8,9 @@ Pneumo-Insight AI is a deep learning-based web application that predicts whether
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-Deep%20Learning-orange?logo=tensorflow)
 ![Kaggle](https://img.shields.io/badge/Dataset-Kaggle-blue?logo=kaggle)
 ![LIME](https://img.shields.io/badge/Explainable%20AI-LIME-green)
+
+![Pneumo-Insight AI](Pneumo-Insight-AI.jpg)
+
 ## Features
 
 * Deep learning-powered pneumonia detection
@@ -27,9 +30,6 @@ Pneumo-Insight AI is a deep learning-based web application that predicts whether
 
 The dataset used in this project is the [**🔗Chest X-Ray Images (Pneumonia)**](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia) dataset from Kaggle.
 It contains pediatric chest X-ray images classified into **Normal** and **Pneumonia** categories.   
-
-
-📊 Details:
 * Total Images: ~5,863
 * Classes: Normal, Pneumonia
 * Split: Train, Validation, Test
